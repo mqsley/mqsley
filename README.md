@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mqsley
 - I ❤️problems and problems love me.
-- Product @ 2 startups 50/50
-- (re)building myself in public
+- Product
 - open about learning on the adventure. 
 
 <!---
